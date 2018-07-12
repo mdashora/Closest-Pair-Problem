@@ -1,0 +1,122 @@
+2017-5-11 21-9-6  points100000.txt
+New grid with mesh size: 933527
+New grid with mesh size: 386769
+New grid with mesh size: 311846
+New grid with mesh size: 241079
+New grid with mesh size: 191097
+New grid with mesh size: 185165
+New grid with mesh size: 116272
+New grid with mesh size: 35294.2
+New grid with mesh size: 34156
+New grid with mesh size: 25097
+New grid with mesh size: 17045.1
+New grid with mesh size: 15393.4
+New grid with mesh size: 3481.24
+ Time elapsed: 0.138s | Points:100000 | MinDist:3481.24 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-7  points200000.txt
+New grid with mesh size: 1.03684e+006
+New grid with mesh size: 75184.5
+New grid with mesh size: 13134.5
+New grid with mesh size: 7502.59
+New grid with mesh size: 4561.08
+ Time elapsed: 0.331s | Points:200000 | MinDist:4561.08 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-8  points300000.txt
+New grid with mesh size: 1.03684e+006
+New grid with mesh size: 75184.5
+New grid with mesh size: 13134.5
+New grid with mesh size: 7502.59
+New grid with mesh size: 4561.08
+ Time elapsed: 0.401s | Points:300000 | MinDist:4561.08 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-9  points400000.txt
+New grid with mesh size: 619114
+New grid with mesh size: 217709
+New grid with mesh size: 196149
+New grid with mesh size: 191099
+New grid with mesh size: 61723.3
+New grid with mesh size: 35260.3
+New grid with mesh size: 27624.9
+New grid with mesh size: 21080.8
+New grid with mesh size: 4071.68
+New grid with mesh size: 2478.58
+ Time elapsed: 0.648s | Points:400000 | MinDist:2478.58 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-11  points500000.txt
+New grid with mesh size: 1.41477e+006
+New grid with mesh size: 976712
+New grid with mesh size: 806404
+New grid with mesh size: 792753
+New grid with mesh size: 438703
+New grid with mesh size: 373023
+New grid with mesh size: 348741
+New grid with mesh size: 303819
+New grid with mesh size: 249965
+New grid with mesh size: 230597
+New grid with mesh size: 223002
+New grid with mesh size: 75741.9
+New grid with mesh size: 9592.32
+New grid with mesh size: 7901.17
+New grid with mesh size: 1946.49
+ Time elapsed: 0.641s | Points:500000 | MinDist:1946.49 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-14  points600000.txt
+New grid with mesh size: 1.15909e+006
+New grid with mesh size: 485822
+New grid with mesh size: 293407
+New grid with mesh size: 220748
+New grid with mesh size: 217533
+New grid with mesh size: 189919
+New grid with mesh size: 154767
+New grid with mesh size: 137868
+New grid with mesh size: 117791
+New grid with mesh size: 36564.1
+New grid with mesh size: 14660.2
+New grid with mesh size: 4797.54
+New grid with mesh size: 4352.51
+New grid with mesh size: 136.476
+ Time elapsed: 1.002s | Points:600000 | MinDist:136.476 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-16  points700000.txt
+New grid with mesh size: 743632
+New grid with mesh size: 230051
+New grid with mesh size: 227609
+New grid with mesh size: 106963
+New grid with mesh size: 84541.8
+New grid with mesh size: 74553
+New grid with mesh size: 22585.1
+New grid with mesh size: 21815.8
+New grid with mesh size: 14047.8
+New grid with mesh size: 1258.32
+New grid with mesh size: 1199.19
+New grid with mesh size: 986.083
+ Time elapsed: 1.549s | Points:700000 | MinDist:986.083 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-9-20  points800000.txt
+New grid with mesh size: 1.42178e+006
+New grid with mesh size: 594163
+New grid with mesh size: 135957
+New grid with mesh size: 125862
+New grid with mesh size: 116946
+New grid with mesh size: 76419.5
+New grid with mesh size: 25070.8
+New grid with mesh size: 14251
+New grid with mesh size: 13562
+New grid with mesh size: 10502.6
+New grid with mesh size: 4131.18
+New grid with mesh size: 3725.26
+New grid with mesh size: 3094.28
+New grid with mesh size: 2493.56
+New grid with mesh size: 1244.92
+New grid with mesh size: 386.032
+ Time elapsed: 1.987s | Points:800000 | MinDist:386.032 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+

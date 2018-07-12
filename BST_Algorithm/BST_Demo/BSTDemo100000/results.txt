@@ -1,0 +1,149 @@
+2017-5-11 21-7-2  points100000.txt
+New grid with mesh size: 1.44346e+006
+New grid with mesh size: 558859
+New grid with mesh size: 527212
+New grid with mesh size: 194638
+New grid with mesh size: 154502
+New grid with mesh size: 66376
+New grid with mesh size: 60738.3
+New grid with mesh size: 56741.4
+New grid with mesh size: 53260.4
+New grid with mesh size: 49745.8
+New grid with mesh size: 46805.4
+New grid with mesh size: 42028.3
+New grid with mesh size: 40524.3
+New grid with mesh size: 33623.4
+New grid with mesh size: 14208
+New grid with mesh size: 12798.9
+New grid with mesh size: 11453
+New grid with mesh size: 9433.76
+New grid with mesh size: 7771.14
+ Time elapsed: 0.169s | Points:100000 | MinDist:7771.14 | MinX:-1e+006 | MinY:-999939 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-3  points200000.txt
+New grid with mesh size: 1.44346e+006
+New grid with mesh size: 558859
+New grid with mesh size: 527212
+New grid with mesh size: 194638
+New grid with mesh size: 154502
+New grid with mesh size: 66376
+New grid with mesh size: 60738.3
+New grid with mesh size: 56741.4
+New grid with mesh size: 53260.4
+New grid with mesh size: 49745.8
+New grid with mesh size: 46805.4
+New grid with mesh size: 42028.3
+New grid with mesh size: 40524.3
+New grid with mesh size: 33623.4
+New grid with mesh size: 14208
+New grid with mesh size: 12798.9
+New grid with mesh size: 11453
+New grid with mesh size: 9433.76
+New grid with mesh size: 7771.14
+New grid with mesh size: 2356.06
+ Time elapsed: 0.436s | Points:200000 | MinDist:2356.06 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-4  points300000.txt
+New grid with mesh size: 229045
+New grid with mesh size: 201972
+New grid with mesh size: 117465
+New grid with mesh size: 109209
+New grid with mesh size: 73501.2
+New grid with mesh size: 29591.6
+New grid with mesh size: 10500
+New grid with mesh size: 7594.39
+New grid with mesh size: 2818.3
+ Time elapsed: 0.466s | Points:300000 | MinDist:2818.3 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-5  points400000.txt
+New grid with mesh size: 1.36969e+006
+New grid with mesh size: 987996
+New grid with mesh size: 386243
+New grid with mesh size: 317052
+New grid with mesh size: 212438
+New grid with mesh size: 181598
+New grid with mesh size: 37658.9
+New grid with mesh size: 6633.13
+New grid with mesh size: 5587.79
+New grid with mesh size: 5530.51
+New grid with mesh size: 2028.96
+New grid with mesh size: 1490.1
+ Time elapsed: 0.984s | Points:400000 | MinDist:1490.1 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-7  points500000.txt
+New grid with mesh size: 649848
+New grid with mesh size: 494427
+New grid with mesh size: 483971
+New grid with mesh size: 355982
+New grid with mesh size: 284157
+New grid with mesh size: 272096
+New grid with mesh size: 164066
+New grid with mesh size: 82799.9
+New grid with mesh size: 33881
+New grid with mesh size: 16403
+New grid with mesh size: 5790.49
+New grid with mesh size: 4192.06
+New grid with mesh size: 2028.97
+ Time elapsed: 0.903s | Points:500000 | MinDist:2028.97 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-9  points600000.txt
+New grid with mesh size: 1.05859e+006
+New grid with mesh size: 616144
+New grid with mesh size: 594083
+New grid with mesh size: 227890
+New grid with mesh size: 144334
+New grid with mesh size: 109936
+New grid with mesh size: 99284.2
+New grid with mesh size: 29839.4
+New grid with mesh size: 17974.9
+New grid with mesh size: 12208.8
+New grid with mesh size: 7324.45
+New grid with mesh size: 3857.43
+New grid with mesh size: 2137.17
+New grid with mesh size: 1697
+New grid with mesh size: 1283.23
+New grid with mesh size: 193.019
+ Time elapsed: 2.043s | Points:600000 | MinDist:193.019 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-13  points700000.txt
+New grid with mesh size: 959773
+New grid with mesh size: 218440
+New grid with mesh size: 167194
+New grid with mesh size: 120454
+New grid with mesh size: 79801.8
+New grid with mesh size: 31397.8
+New grid with mesh size: 23189.8
+New grid with mesh size: 14003.6
+New grid with mesh size: 8431.33
+New grid with mesh size: 8357.61
+New grid with mesh size: 7507.79
+New grid with mesh size: 4760.89
+New grid with mesh size: 4653.24
+New grid with mesh size: 3207.79
+New grid with mesh size: 1067.71
+ Time elapsed: 1.501s | Points:700000 | MinDist:1067.71 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
+2017-5-11 21-7-16  points800000.txt
+New grid with mesh size: 1.12666e+006
+New grid with mesh size: 242108
+New grid with mesh size: 197241
+New grid with mesh size: 87669.5
+New grid with mesh size: 78584.4
+New grid with mesh size: 66464.5
+New grid with mesh size: 62293.5
+New grid with mesh size: 26984.2
+New grid with mesh size: 7536.3
+New grid with mesh size: 7044.96
+New grid with mesh size: 6057.72
+New grid with mesh size: 4505.59
+New grid with mesh size: 1371.64
+ Time elapsed: 1.618s | Points:800000 | MinDist:1371.64 | MinX:-1e+006 | MinY:-1e+006 | MaxX:1e+006 | MaxY:1e+006
+-----------------------------------------------------
+
