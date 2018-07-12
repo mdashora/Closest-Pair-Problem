@@ -24,4 +24,4 @@ d(p,q) = δ(S)
 Authors proposes a solution to solve this problem in logarithmic O(n log n) and linear O(n) time. They propose a Simple Randomized incremental algorithm and we will see the algorithm details and implementations in next sections. Also, the high probability bounds have been explored, The linear expected time algorithm run in O(n logn / log log n) time with high probability and the logarithmic expected time algorithm runs in O(n log n) time with high probability. The solution to this problem also extends to fully dynamic algorithm and k-closest pair algorithm and also to algorithm which does not consider non-algebraic functions.
 It is worth mentioning that floor functions used in above algorithm assumes to be calculated at unit cost.
 
-To read more about project and experimental results. Please refer to [a link](https://github.com/mdashora/Closest-Pair-Problem/blob/master/Project_Details.pdf)
+To read more about project and experimental results. Please refer to [Project_Details](https://github.com/mdashora/Closest-Pair-Problem/blob/master/Project_Details.pdf)
